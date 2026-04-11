@@ -1,0 +1,19 @@
+1. El Gancho: "La casa no es una casa, es una hucha"
+Concepto: Euríbor vs. Precio (Correlación 0.79).
+Lenguaje de calle: "Todo el mundo dice que si la hipoteca sube, la vivienda baja. Pero en España el ladrillo va a su bola. Hemos visto que aunque el banco te cobre un riñón por el préstamo, el precio de la casa sigue subiendo. ¿Por qué? Porque la gente no compra una casa solo para vivir, la usa como una hucha gigante para que su dinero no pierda valor."
+2. El Protagonista: "El fenómeno Tocateja"
+Concepto: Volumen de ventas vs. Compras sin hipoteca.
+Lenguaje de calle: "Aquí está el truco. Las ventas totales bajan porque el que va justo de dinero ya no puede pedir hipoteca. Pero, de repente, aparece un montón de gente comprando 'a tocateja', con el maletín. En 2023, mientras las hipotecas caían, las compras al contado subieron un 16%. Ese es el inversor diciendo: 'Prefiero tener mi dinero en paredes que en el banco'."
+3. La Comparación: "El Ladrillo vs. El Oro"
+Concepto: Correlación con el Oro.
+Lenguaje de calle: "Para que veáis que no es una locura: la vivienda se está portando igual que el oro. Sabéis que cuando hay guerras o crisis todo el mundo compra oro, ¿verdad? Pues en España, cuando hay lío económico, compramos casas. Son nuestras dos 'cajas fuertes' favoritas."
+4. El Futuro y el Problema: "El Búnker imbatible"
+Concepto: Predicción 2027 y Riesgo de accesibilidad.
+Lenguaje de calle: "Nuestras matemáticas dicen que en 2027, aunque las cosas se pongan feas, el precio podría irse a los 3.000€. Pero ojo, que aquí hay un problema: el mercado se está convirtiendo en un búnker. Es un refugio fantástico para el que ya está dentro, pero el que quiere entrar ahora se encuentra la puerta cerrada porque los sueldos no suben como los ladrillos."
+Estructura de diapositivas para tus 15 minutos:
+Portada: "Vivienda en España: ¿Por qué no baja de precio?" (1 min)
+El Misterio: Gráfico Euríbor vs. Precio. "La casa pasa de las hipotecas". (3 min)
+La Bomba: Gráfico de las barras verdes ("Tocateja"). "El que tiene ahorros manda". (4 min)
+El Refugio: Gráfico Oro vs. Vivienda. "El oro de paredes blancas". (3 min)
+La Bola de Cristal: Tu gráfico de barras de Predicción 2027. "Qué nos espera". (2 min)
+Reflexión Final: "Un refugio seguro, pero cada vez más caro". (2 min)
