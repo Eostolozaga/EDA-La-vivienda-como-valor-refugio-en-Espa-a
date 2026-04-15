@@ -35,7 +35,13 @@ El objetivo central de este análisis es determinar si el **mercado inmobiliario
 
 \*   \*\*Lenguaje:\*\* Python.
 
-\*   \*\*Librerías:\*\* `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`.
+\*   \*\*Librerías:\*\*
+
+* ![Pandas](https://shields.io) **Pandas**: Manipulación y limpieza de datos.
+* ![NumPy](https://shields.io) **NumPy**: Operaciones matriciales.
+* ![Matplotlib](https://shields.io) **Matplotlib** & **Seaborn**: Visualización de datos y gráficos estadísticos.
+* ![Scikit-Learn](https://shields.io) **Scikit-Learn**: Modelado de regresión lineal.
+* **Functools**: Optimización y manipulación de funciones (reduce).
 
 \*   \*\*Fuentes de datos:\*\* INE (Instituto Nacional de Estadística), Idealista y portales de datos abiertos.
 
