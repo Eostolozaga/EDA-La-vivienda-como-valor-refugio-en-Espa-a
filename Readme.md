@@ -28,6 +28,9 @@ El objetivo central de este análisis es determinar si el **mercado inmobiliario
 </p>
 
 
+
+![Infografía Vivienda vs Oro](<EDA Correlacion del precio de la vivienda respecto al oro/src/Infografia EDA Vivienda como valor refugio en España.png>)
+
 **## 🛠️ Stack Tecnológico**
 
 \*   \*\*Lenguaje:\*\* Python.
