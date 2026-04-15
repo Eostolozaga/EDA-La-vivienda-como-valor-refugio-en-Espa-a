@@ -1,65 +1,58 @@
-**# 🏠 Análisis EDA: La Vivienda en España como Valor Refugio**
+# 🏠 Análisis EDA: La Vivienda en España como Valor Refugio
 
+El objetivo central de este análisis es determinar si el **mercado inmobiliario español** actúa como un activo refugio frente a escenarios de incertidumbre económica, analizando su resiliencia frente a la inflación y otros activos tradicionales.
 
+---
 
-**## 📋 Descripción del Proyecto**
+## 📋 Descripción del Proyecto
 
+Para validar esta hipótesis, el estudio se desglosa en los siguientes hitos estratégicos:
 
+*   **Capacidad de cobertura (Hedge):** Análisis de la revalorización de la vivienda frente al **IPC** y su correlación histórica con el **oro**.
+*   **Desacople financiero:** Investigación de la resiliencia del precio de venta frente a la subida del **Euríbor**.
+*   **Rentabilidad del alquiler:** Evolución del mercado de arrendamiento como motor independiente del ciclo de venta.
+*   **Brecha de accesibilidad:** Determinación del **"Ratio de Esfuerzo Crítico"** (Salarios vs. Precios).
+*   **Análisis Histórico:** Contraste del ciclo actual frente a la crisis de **2008** para identificar patrones de solvencia.
 
-El objetivo central de este análisis es determinar si el **mercado inmobiliario español actúa como un activo refugio** inexpugnable frente a escenarios de incertidumbre económica. Para ello, se han definido los siguientes hitos:
+---
 
-**Evaluar la capacidad de cobertura (hedge):** Analizar la **revalorización** de la vivienda **frente al IPC** y su **correlación con el oro** para medir su eficacia en la preservación del poder adquisitivo.
-
-**Analizar el desacople financiero:** Investigar la **resiliencia del precio de venta frente a la subida de los tipos de interés (Euríbor)** y la transición del comprador hipotecario hacia el inversor de capital propio.
-
-**Auditar la rentabilidad del alquiler:** Estudiar la evolución del mercado del alquiler como un **motor independiente del ciclo de venta** y su margen de seguridad frente al "coste del dinero".
-
-**Cuantificar la brecha de accesibilidad:** Determinar el **"Ratio de Esfuerzo Crítico"** para identificar el punto de ruptura entre los salarios reales y los precios de mercado (Zona Roja).
-
-**Contrastar el ciclo actual vs. 2008:** Utilizar datos históricos para identificar **patrones de colapso** y **entender** por qué el mercado actual mantiene su **solvencia pese a las tensiones** de crédito.
-
-
-
-**## 📊 Visualizaciones Destacadas**
-
+## 📊 Visualizaciones Destacadas
 
 <p align="center">
   <img src="EDA%20Correlacion%20del%20precio%20de%20la%20vivienda%20respecto%20al%20oro/src/Gif_Readme.gif" width="100%" alt="Análisis de Vivienda">
 </p>
 
+![Infografía Vivienda vs Oro](EDA%20Correlacion%20del%20precio%20de%20la%20vivienda%20respecto%20al%20oro/src/Infografia%20EDA%20Vivienda%20como%20valor%20refugio%20en%20España.png)
+
+---
+
+## 🛠️ Stack Tecnológico
 
 
-![Infografía Vivienda vs Oro](<EDA Correlacion del precio de la vivienda respecto al oro/src/Infografia EDA Vivienda como valor refugio en España.png>)
+| Herramienta | Uso Principal |
+| :--- | :--- |
+| **Python** | Lenguaje base del análisis |
+| **Pandas / NumPy** | Procesamiento y limpieza de datos |
+| **Matplotlib / Seaborn** | Visualización estadística avanzada |
+| **Scikit-Learn** | Modelado de regresión lineal |
+| **Functools** | Optimización de procesos funcionales |
 
-**## 🛠️ Stack Tecnológico**
+> **Fuentes de datos:** INE (Instituto Nacional de Estadística), Idealista y portales de datos abiertos.
 
-\*   \*\*Lenguaje:\*\* Python.
-
-\*   \*\*Librerías:\*\*
-
-* ![Pandas](https://shields.io) **Pandas**: Manipulación y limpieza de datos.
-* ![NumPy](https://shields.io) **NumPy**: Operaciones matriciales.
-* ![Matplotlib](https://shields.io) **Matplotlib** & **Seaborn**: Visualización de datos y gráficos estadísticos.
-* ![Scikit-Learn](https://shields.io) **Scikit-Learn**: Modelado de regresión lineal.
-* **Functools**: Optimización y manipulación de funciones (reduce).
-
-\*   \*\*Fuentes de datos:\*\* INE (Instituto Nacional de Estadística), Idealista y portales de datos abiertos.
+---
 
 
 
-**## 📂 Estructura del Repositorio**
+## 📂 Estructura del Repositorio
 
-\*   `data/`: Contiene los datasets originales (`raw`) y el dataset final combinado (`processed`).
+*   `data/`: Datasets originales (`raw`) y procesados (`processed`).
+*   `notebooks/`: 
+    *   `exploratory/`: Análisis individuales por fuente.
+    *   `00_Main_Analysis.ipynb`: **Notebook principal** con la narrativa completa y conclusiones.
+*   `reports/figures/`: Gráficos y visualizaciones exportadas.
+*   `requirements.txt`: Archivo de dependencias para replicar el entorno.
 
-\*   `notebooks/`: 
-
-&#x20;   \*   `exploratory/`: Análisis individuales de cada fuente de datos.
-
-&#x20;   \*   `00\_Main\_Analysis.ipynb`: El notebook principal con toda la narrativa y conclusiones.
-
-\*   `reports/figures/`: Gráficos y visualizaciones generadas.
-
-\*   `requirements.txt`: Librerías necesarias para replicar el entorno.
+---
 
 
 
