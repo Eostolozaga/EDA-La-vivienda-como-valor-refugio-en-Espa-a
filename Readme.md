@@ -24,7 +24,7 @@ El objetivo central de este análisis es determinar si el **mercado inmobiliario
 
 
 <p align="center">
-  <img src="Gif_Readme.gif" width="100%" alt="Análisis de Vivienda">
+  <img src="EDA%20Correlacion%20del%20precio%20de%20la%20vivienda%20respecto%20al%20oro/src/Gif_Readme.gif" width="100%" alt="Análisis de Vivienda">
 </p>
 
 
